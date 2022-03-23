@@ -7,16 +7,65 @@ img{
 input.checkbox{
     margin-left: 0;
     width: 1rem;
-    margin-top: 14px;
+   
     margin-right: 1rem;
 }
 .terms{
     display: flex;
     
 }
-.signup{
+.country{
+    padding: 20px;
+    display: grid;
+    padding-left: 0;
+}
+select{
+    outline: none;
+    width: 15rem;
+    height: 2rem;
+}
+.state{
+    padding: 20px;
+    display: grid;
+    padding-left: 0;
+    
+}
+.info1{
     display: flex;
    
+}
+.name{
+    padding: 20px;
+    display: grid;
+    padding-left: 0;
+}
+.phone{
+    padding: 20px;
+    display: grid;
+    padding-left: 0;
+}
+.area{
+    display: flex;
+   
+}
+
+.info2{
+    display: flex;
+   
+}
+.email{
+    padding: 20px;
+    display: grid;
+    padding-left: 0;
+}
+.pass{
+    padding: 20px;
+    display: grid;
+    padding-left: 0;
+}
+.signup{
+    display: flex;
+   margin-left: 10rem;
 
 }
 .content h1{
