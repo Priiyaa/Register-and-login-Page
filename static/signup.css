@@ -10,6 +10,20 @@ input.checkbox{
    
     margin-right: 1rem;
 }
+.new{
+    display: flex;
+}
+.crop{
+    padding: 20px;
+    display: grid;
+padding-left: 0;
+}
+.adhar{
+    
+    padding: 20px;
+    display: grid;
+padding-left: 0;
+}
 .terms{
     display: flex;
     
